@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The author of this blog considers themselves to be a *Conscious Traveller*, an
+observer experiencing a small piece of the deterministic universe.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Mono no aware (物の哀れ) which is often symbolized with the brief blooming of
+cherry blossoms (さくら) describes everything the author has experienced and
+expects from the rest of their life.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+> Mono no aware (物の哀れ), literally "the pathos of things", and also translated as "an empathy toward things", or "a sensitivity to ephemera", is a Japanese term for the awareness of impermanence (無常 mujō), or transience of things, and both a transient gentle sadness (or wistfulness) at their passing as well as a longer, deeper gentle sadness about this state being the reality of life.
+
+# Blog Publishing Resources
+- [atom](https://atom.io/)
+- [jekyll](https://github.com/jekyll/jekyll)
+- [jekyllrb.com](http://jekyllrb.com/)
+- [minima](https://github.com/jekyll/minima)
+- [wikipedia](https://en.wikipedia.org)
+- [twitter](https://twitter.com)
+- [protonmail](https://protonmail.com/)
